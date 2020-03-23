@@ -1,1 +1,1 @@
-# albertchung921-Coursera-Capstone
+# Coursera Capstone
